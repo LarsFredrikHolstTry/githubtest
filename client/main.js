@@ -1,4 +1,5 @@
 var socket = io();
+var yes;
 
 var form = document.querySelector('form');
 
